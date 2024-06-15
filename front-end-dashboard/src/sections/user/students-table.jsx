@@ -1,5 +1,5 @@
 import React from 'react';
-import { useStudents } from "src/hooks/use-students"; // adjust the path according to your file structure
+import { useStudents } from "src/hooks/use-students"; 
 import { 
   Table, 
   TableBody, 
